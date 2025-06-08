@@ -1,0 +1,10 @@
+{
+  "region": "us-east-2",
+  "ami_id": "ami-004364947f82c87a0",
+  "instance_type": "t2.micro",
+  "key_name": "node 1",
+  "security_group": "sg-063979c18dd0a3772",
+  "ssh_key_path": "/home/ubuntu/node 1.pem",
+  "repo_url": "https://github.com/Poornima1328/techeasy-devops.git",
+  "repo_dir": "techeasy-devops"
+}
